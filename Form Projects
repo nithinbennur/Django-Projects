@@ -1,0 +1,9 @@
+Make a full-fledged Django App which gets input of the following information through an online form:
+
+  	> Full Name ,Phone number
+  	> Client Value(In USD)(This can be any monetary value in dummy data)
+  	> eMail , website address
+
+	All of this information need to be stored in a database.
+
+	You will need to have an input form in another page to retrive data based on First name input.
